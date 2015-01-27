@@ -11,3 +11,4 @@ Git can merge branches.
 hahahaha:
 test merge.
 test --no-ff merge.
+fix bug 102.
